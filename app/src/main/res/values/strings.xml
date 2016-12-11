@@ -1,0 +1,7 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">晴雨天气</string>
+    <string name="weather_temp_now"><xliff:g id="min">%s</xliff:g> ℃</string>
+    <string name="max_min_temp"><xliff:g id="min">%s</xliff:g> ℃ ~ <xliff:g id="max">%s</xliff:g> ℃</string>
+    <string name="network_error">请打开网络连接</string>
+    <string name="refresh">刷新</string>
+</resources>
